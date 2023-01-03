@@ -33,11 +33,11 @@ const Header = () => (
       </li>
     </Div2>
     <Div3>
-      <SocialIcons href="https://github.com/yingzhuo1994">
-        <AiFillGithub size="3rem" />
-      </SocialIcons>
       <SocialIcons href="https://www.linkedin.com/in/yingzhuo?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BaEcaY9pSTTaQflTQORyvJw%3D%3D">
         <AiFillLinkedin size="3rem" />
+      </SocialIcons>
+      <SocialIcons href="https://github.com/yingzhuo1994">
+        <AiFillGithub size="3rem" />
       </SocialIcons>
       <SocialIcons href="https://leetcode.com/yingzhuo1994/">
         <SiLeetcode size="3rem" />

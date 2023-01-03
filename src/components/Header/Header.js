@@ -4,14 +4,14 @@ import { AiFillGithub, AiFillLinkedin } from 'react-icons/ai';
 import { SiLeetcode } from "react-icons/si";
 import { DiCssdeck } from 'react-icons/di';
 
-import { Container, Div1, Div2, Div3, NavLink, SocialIcons } from './HeaderStyles';
+import { Container, Div1, Div2, Div3, NavLink, SocialIcons, Span } from './HeaderStyles';
 
 const Header = () => (
   <Container>
     <Div1>
       <Link href="/">
-        <a style={{ display: 'flex', alignItems: 'center', color: "white" }}>
-          <DiCssdeck size="3rem" /> <span>Portfolio</span>
+        <a style={{ display: 'flex', alignItems: 'center', color: "white", marginBottom: '20px' }}>
+          <DiCssdeck size="3rem" /> <Span>Portfolio</Span>
         </a>
       </Link>
     </Div1>

@@ -6,8 +6,8 @@ import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 const data = [
   { number: 10, text: 'Licenses and Certifications', },
   { number: 30, text: 'Github Projects', },
-  { number: 640, text: 'LeetCode Problems'},
-  { number: 1300, text: 'WeChat Official Account Followers', },
+  { number: 650, text: 'LeetCode Problems'},
+  { number: 1700, text: 'WeChat Official Account Followers', },
 ];
 
 const Acomplishments = () => (

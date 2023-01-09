@@ -15,7 +15,7 @@ const Hero = (props) => (
         <SectionText>
         This is to show my finished project. If you need my teck skills, please contact me.
         </SectionText>
-        <Button onClick={props.handleClick}>Learn More</Button>
+        <Button onClick={() => window.open("https://www.linkedin.com/in/yingzhuo/")}>Learn More</Button>
       </LeftSection>
     </Section>
   </>

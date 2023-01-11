@@ -7,7 +7,7 @@ const data = [
   { number: 10, text: 'Licenses and Certifications', },
   { number: 30, text: 'Github Projects', },
   { number: 650, text: 'LeetCode Problems'},
-  { number: 1700, text: 'WeChat Official Account Followers', },
+  { number: 2000, text: 'WeChat Official Account Followers', },
 ];
 
 const Acomplishments = () => (
